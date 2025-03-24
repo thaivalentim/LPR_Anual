@@ -12,7 +12,6 @@ class Program
 
         Console.WriteLine($"\nTotal de horas de treinamento por semana: {horasPorSemana} horas");
 
-        // Calcula o tempo necessário para alcançar 1000 horas usando um laço
         int totalHoras = 1000;
         int horasAcumuladas = 0;
         int semanasNecessarias = 0;
