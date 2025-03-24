@@ -25,7 +25,6 @@ class Program
         int diasNecessarios = semanasNecessarias * diasUteis;
         double mesesNecessarios = semanasNecessarias / 4.5;
 
-        // Exibe os resultados
         Console.WriteLine($"\nPara alcançar 1000 horas de treinamento:");
         Console.WriteLine($"- São necessários {diasNecessarios} dias úteis.");
         Console.WriteLine($"- São necessárias {semanasNecessarias} semanas.");
