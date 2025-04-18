@@ -1,18 +1,18 @@
 # LPR Anual
 
-This repository contains a collection of exercises organized by class sessions. Each folder corresponds to a specific class (Aula) and contains exercises related to that class.
+Este repositório contém uma coleção de exercícios organizados por sessões de aula. Cada pasta corresponde a uma aula específica e contém exercícios relacionados a essa aula.
 
-## Folder Structure
+## Estrutura de pastas
 
-- **Aula4**: Contains exercises from the fourth class.
-  - `ex1.cs`: Code for exercise 1 from Aula 4.
-  
-- **Aula5**: Contains exercises from the fifth class.
-  - `README.md`: Documentation for the exercises in Aula 5.
+- **Aula4**: Contém exercícios da quarta aula.
+- 'ex1.cs': Código para o exercício 1 da Aula 4.
 
-- **Aula6**: Contains exercises from the sixth class.
-  - `README.md`: Documentation for the exercises in Aula 6.
+- **Aula5**: Contém exercícios da quinta aula.
+- 'README.md': Documentação para os exercícios da Aula 5.
 
-## Usage
+- **Aula6**: Contém exercícios da sexta aula.
+- 'README.md': Documentação para os exercícios da Aula 6.
 
-To navigate the exercises, simply open the corresponding folder for the class you are interested in. Each folder may contain code files and documentation to help you understand the exercises and their requirements.
+## Utilização
+
+Para navegar pelos exercícios, basta abrir a pasta correspondente para a aula em que você está interessado. Cada pasta pode conter arquivos de código e documentação para ajudá-lo a entender os exercícios e seus requisitos.
