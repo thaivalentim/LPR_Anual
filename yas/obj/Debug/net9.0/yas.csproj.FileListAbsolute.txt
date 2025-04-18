@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Aulas_de_LPR\LPR_Anual\yas\bin\Debug\net9.0\yas.exe
+C:\Users\User\Desktop\Aulas_de_LPR\LPR_Anual\yas\bin\Debug\net9.0\yas.deps.json
+C:\Users\User\Desktop\Aulas_de_LPR\LPR_Anual\yas\bin\Debug\net9.0\yas.runtimeconfig.json
+C:\Users\User\Desktop\Aulas_de_LPR\LPR_Anual\yas\bin\Debug\net9.0\yas.dll
+C:\Users\User\Desktop\Aulas_de_LPR\LPR_Anual\yas\bin\Debug\net9.0\yas.pdb
+C:\Users\User\Desktop\Aulas_de_LPR\LPR_Anual\yas\obj\Debug\net9.0\yas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Aulas_de_LPR\LPR_Anual\yas\obj\Debug\net9.0\yas.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Aulas_de_LPR\LPR_Anual\yas\obj\Debug\net9.0\yas.AssemblyInfo.cs
+C:\Users\User\Desktop\Aulas_de_LPR\LPR_Anual\yas\obj\Debug\net9.0\yas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Aulas_de_LPR\LPR_Anual\yas\obj\Debug\net9.0\yas.sourcelink.json
+C:\Users\User\Desktop\Aulas_de_LPR\LPR_Anual\yas\obj\Debug\net9.0\yas.dll
+C:\Users\User\Desktop\Aulas_de_LPR\LPR_Anual\yas\obj\Debug\net9.0\refint\yas.dll
+C:\Users\User\Desktop\Aulas_de_LPR\LPR_Anual\yas\obj\Debug\net9.0\yas.pdb
+C:\Users\User\Desktop\Aulas_de_LPR\LPR_Anual\yas\obj\Debug\net9.0\yas.genruntimeconfig.cache
+C:\Users\User\Desktop\Aulas_de_LPR\LPR_Anual\yas\obj\Debug\net9.0\ref\yas.dll
